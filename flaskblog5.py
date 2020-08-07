@@ -13,7 +13,7 @@ lb = line_break
 ~lb(2): recap of template inheritance
 ~lb(3): giving the flask app some ~style~
 ~lb(4): CSS file in flask development
-
+~lb(5): further customisation of layout.html
 '''
 #____________from previous flask notes (+ modification)____________
 
@@ -221,8 +221,6 @@ lb(5)
     {% endfor %}
 {% endblock content %}
 '''
-
-# now you can see that the Blog Post's are looking nice and split up a little bit better than before.
-
+# now you can see that the Blog Posts are looking nice and split up a little bit better than before.
 
 # # # # # # # # # # # # # # # # continue onto flaskblog6.py # # # # # # # # # # # # # # # #
