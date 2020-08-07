@@ -14,6 +14,7 @@ lb = line_break
 ~lb(3): giving the flask app some ~style~
 ~lb(4): CSS file in flask development
 ~lb(5): further customisation of layout.html
+
 '''
 #____________from previous flask notes (+ modification)____________
 
