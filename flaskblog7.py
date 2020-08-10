@@ -13,7 +13,6 @@ lb = line_break
 ~lb(2): creating the register/login.html
 ~lb(3): accounting for 'submit' button within RegisterForm
 ~lb(4): 'Already have an account? _Sign in_'
-~lb(5):
 
 '''
 #____________from previous flask notes (+ modification)____________
