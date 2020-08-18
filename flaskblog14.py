@@ -10,9 +10,6 @@ lb = line_break
 * this is the fourteenth note on building a python flask application *
 ~lb(0): turning flaskblog__.py into a package
 ~lb(1): ### RENAMED TO run.py ###
-~lb(2):
-~lb(3):
-~lb(4):
 
 '''
 
