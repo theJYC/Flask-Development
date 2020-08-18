@@ -8,6 +8,7 @@ lb = line_break
 '''
 ~appendix
 * this is the fifteenth note on building a python flask application *
+*this is also referred to as the run.py that logically connects to flaskblog14.py*
 ~lb(0): turning flaskblog__.py into a package
 ~lb(1): splitting the import modules among package files
 ~lb(2): cleaning up redundant imports from split files
