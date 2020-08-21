@@ -11,28 +11,34 @@ and they are organised as follows:
 # Part 1- Getting Started:
 -flaskblog01 
 -flaskblog02
+
 # Part 2- Templates
 -flaskblog03
 -flaskblog04
 -flaskblog05
+
 # Part 3- Forms and User Input
 -flaskblog06
 -flaskblog07
 -flaskblog08
 -flaskblog09
+
 # Part 4- Database with Flask-SQLAlchemy
 -flaskblog10
 -flaskblog11
 -flaskblog12
+
 # Part 5- Package Structure
 -flaskblog13
 -flaskblog14 (run.py)
+
 # Part 6- User Authentication
 -flaskblog15
 -flaskblog16
 -flaskblog17
 -flaskblog18
 -flaskblog19
+
 # Part 7- User Account and Profile Picture
 -flaskblog20
 -flaskblog21
