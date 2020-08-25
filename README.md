@@ -27,6 +27,9 @@ Part 6- User Authentication:
 [flaskblog15, flaskblog16, flaskblog17, flaskblog18, flaskblog19]
 
 Part 7- User Account and Profile Picture:
-[flaskblog20, flaskblog21]
+[flaskblog20, flaskblog21, flaskblog22, flaskblog23]
+
+Part 8- User Account and Profile Picture:
+[flaskblog24, flaskblog25]
 
 source: https://youtu.be/MwZwr5Tvyxo
